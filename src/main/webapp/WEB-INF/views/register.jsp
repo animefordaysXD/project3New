@@ -115,7 +115,9 @@ function setVisibility() {
                          <input type="time" class="prefTime2" id="prefTime2"><label class="prefTimeLab">까지</label>
                         <br>
                         <div class="space"></div>
+                        <div class="buttonForConfirm">
                         <button class="confirmSign" value="submit">확인</button>
+                   	    </div>	
                     </form>
                 </div>
             </div>

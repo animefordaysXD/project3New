@@ -203,4 +203,13 @@ color: #fff;
     font-size: 20px;
     font-weight: bold;
 }
-
+.buttonForConfirm{
+	display:flex;
+	justify-content: space-around;
+	padding-top: 70px;
+	
+	
+}
+.buttonForConfirm button{
+	width: 350px;
+}
